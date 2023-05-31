@@ -1,0 +1,17 @@
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\bin\Debug\Eczamen.exe.config
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\bin\Debug\Eczamen.exe
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\bin\Debug\Eczamen.pdb
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.csproj.AssemblyReference.cache
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.Form1.resources
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.Properties.Resources.resources
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.csproj.GenerateResource.cache
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.csproj.CoreCompileInputs.cache
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.exe
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.pdb
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.Form2.resources
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.Form3.resources
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.Form4.resources
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.Form5.resources
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.Form6.resources
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.Form7.resources
+C:\Users\ПК-4\Desktop\экзамен\Eczamen\Eczamen\obj\Debug\Eczamen.Form8.resources
